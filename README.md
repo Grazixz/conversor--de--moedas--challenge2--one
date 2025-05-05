@@ -5,7 +5,7 @@ Este projeto é o segundo desafio do programa **Oracle Next Education (ONE)** em
 ## 🚀 Tecnologias e Ferramentas
 
 - ✅ **Java 21**
-- 🌐 **Exchange Rate API** – para obter as taxas de câmbio atualizadas
+- 🌐 [**Exchange Rate API**](https://www.exchangerate-api.com/) – para obter as taxas de câmbio atualizadas
 - 📦 **Gson** – para fazer o parse dos dados JSON da API
 
 ## 🎯 Objetivo
