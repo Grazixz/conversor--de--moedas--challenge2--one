@@ -19,8 +19,8 @@ public class Main {
                                 |                               CONVERSOR DE MOEDA $                                  |
                                 ---------------------------------------------------------------------------------------
                                 |  1 - Real(BRL) -> Dólar(USD)           | |  6 - Peso Argentino(ARS) -> Real(BRL)    |
-                                |  2 - Dólar(USD) -> Real(BRL)           | |  7 - Real(BRL) -> Yuan Chinês(CNY)   |
-                                |  3 - Real(BRL) -> Euro(EUR)            | |  8 - Yuan Chinês(CNY) -> Real(BRL)   |
+                                |  2 - Dólar(USD) -> Real(BRL)           | |  7 - Real(BRL) -> Yuan Chinês(CNY)       |
+                                |  3 - Real(BRL) -> Euro(EUR)            | |  8 - Yuan Chinês(CNY) -> Real(BRL)       |
                                 |  4 - Euro(EUR) -> Real(BRL)            | |  9 - Real(BRL) -> Iene Japonês(JPY)      |
                                 |  5 - Real(BRL) -> Peso Argentino(ARS)  | |  10 - Iene Japonês(JPY) -> Real(BRL)     |
                                 |                    11 - Real(BRL) -> ?     12 - ? -> Real(BRL)                      |
