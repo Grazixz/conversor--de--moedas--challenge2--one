@@ -2,7 +2,7 @@
 
 Este projeto é o segundo desafio do programa **Oracle Next Education (ONE)** em parceria com a **Alura**. O objetivo foi desenvolver um **conversor de moedas** utilizando **Java 21**, consumindo dados em tempo real de uma API externa.
 
-## 🚀 Tecnologias e Ferramentas
+## ⚙️ Tecnologias e Ferramentas
 
 - ✅ **Java 21**
 - 🌐 [**Exchange Rate API**](https://www.exchangerate-api.com/) – para obter as taxas de câmbio atualizadas
