@@ -24,4 +24,16 @@ Construir uma aplicação de linha de comando que permita ao usuário converter 
 - Consumo de API REST com tratamento de erros
 - Conversão precisa e baseada em valores atualizados
 
+---
+
+## ▹ Como executar
+
+1. Clone o repositório:
+   
+   ```bash
+   git clone https://github.com/Grazixz/conversor--de--moedas--challenge2--one
+
+## ⚠️Antes de executar: 
+- Precisa modificar a classe **ExchangenerateApi**, pegue uma key no [**site da API**](https://www.exchangerate-api.com/) e altera o atributo **key** da classe;
+- Precisa implementar a dependência do gson, que está na pasta **dependences**;
 
